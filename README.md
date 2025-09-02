@@ -8,9 +8,9 @@
 ---
 
 - 🔭 I’m currently working on **[Hostel Management System](https://devendra440.github.io/StaySelect/)**  
-- 🌱 I’m currently learning **Backend Development, Frameworks & Cloud**  
+- 🌱 I’m currently learning **Backend Development, Frameworks, Salesforce & Cloud**  
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://devendra440.github.io/codesoft/)**  
-- 💬 Ask me about **C, Python, Java, React, JavaScript**  
+- 💬 Ask me about **Python, Java, React, JavaScript, Salesforce**  
 - 📫 Reach me at **pinnamguptha1234@gmail.com**  
 - ⚡ Fun fact: *I love solving problems and building projects that make life easier* 🚀  
 
@@ -27,7 +27,7 @@
 
 <h3 align="left">⚒️ Languages & Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,bootstrap,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,bootstrap,javascript,react,nodejs,express,mongodb,mysql,salesforce,git,github,vscode" />
 </p>
 
 ---
