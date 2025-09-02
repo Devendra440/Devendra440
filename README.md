@@ -27,7 +27,7 @@
 
 <h3 align="left">⚒️ Languages & Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,bootstrap,javascript,react,reactnative,nodejs,express,mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,bootstrap,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode" />
 </p>
 
 ---
