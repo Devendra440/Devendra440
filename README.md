@@ -27,7 +27,7 @@
 
 <h3 align="left">⚒️ Languages & Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,bootstrap,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,bootstrap,javascript,react,nodejs,express,mongodb,mysql,salesforce,git,github,vscode" />
 </p>
 
 ---
@@ -58,4 +58,24 @@
 <h3 align="center">📈 Contribution Graph</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devendra440&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
+---
+
+<h3 align="center">📊 More Insights & Analysis</h3>
+
+<p align="center">
+  <!-- Productivity by Time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devendra440&theme=tokyonight&utcOffset=+5.5" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <!-- Commit Calendar -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devendra440&theme=tokyonight" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <!-- Repo Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devendra440&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devendra440&theme=tokyonight" alt="Most Commit Language" />
 </p>
